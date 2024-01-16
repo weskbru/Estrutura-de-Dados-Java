@@ -21,7 +21,7 @@ public class FrutasTeste {
 		// Iterar sobre os elementos da lista
 		System.out.println("Elementos da lista");
 		for(String elemento : lista) {
-			System.err.println(elemento);
+			System.out.println(elemento);
 		}
 		
 		// Verificar o tamanho da lista 
@@ -38,7 +38,7 @@ public class FrutasTeste {
 		
 		// Verifica os elementos da lista apos a remocao
 		for(String frutas : lista) {
-			System.err.println(frutas);
+			System.out.println(frutas);
 		}
 	}
 
